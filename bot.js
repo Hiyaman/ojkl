@@ -91,8 +91,6 @@ client.on('message', message => {
 
 ❖ $$server ➾ عرض معلومات السيرفر
 
-❖ $$invite ➾ لي اضفت البوت الي سيرفرك
-
 ❖ $$invites ➾ لي عرض كم دعوة انت جبت
 
 ╔[❖════════════❖]╗
@@ -131,11 +129,11 @@ client.on('message', message => {
 
 ==================================================================
 
-Server support: https://discordgg/fxNGHR 
+Server support: No
 
 ==================================================================
 
-bot invite link: https://discordappcom/api/oauth2/authorize?client_id=472224983943217175&permissions=2146958583&scope=bot 
+bot invite link: No
 
 ==================================================================
 **
